@@ -1,9 +1,9 @@
-# Privacy Policy for Pool Score Tracker
+# Privacy Policy for BilliardXScore
 
 **Effective Date:** May 5, 2025
 
 ## Introduction  
-Pool Score Tracker ("we", "us", or "our") respects your privacy.  
+BilliardXScore ("we", "us", or "our") respects your privacy.  
 This Privacy Policy explains how we handle your information when you use our app.
 
 ## Information We Collect  
