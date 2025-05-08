@@ -1,49 +1,34 @@
-# Privacy Policy for BilliardXScore
+# Privacy Policy for Pool Score Tracker
 
-**Effective Date:** May 5, 2025
+**Effective Date:** May 8, 2025  
+**Last Updated:** May 8, 2025
 
-## Introduction  
-BilliardXScore ("we", "us", or "our") respects your privacy.  
-This Privacy Policy explains how we handle your information when you use our app.
+## Introduction
 
-## Information We Collect  
-We **do not collect**, **store**, or **share** any personally identifiable information (PII).  
-All data you enter into the app — including player names, match history, or scores — is stored **only on your device** and is **never transmitted** to any servers.
+Pool Score Tracker ("we", "us", or "our") respects your privacy. This Privacy Policy outlines our practices regarding the collection, use, and disclosure of information when you use our mobile application.
 
-We do not use analytics, tracking tools, or third-party data processors within the app.
+## Information We Collect
 
-## Data Storage and Security  
-All app data is stored locally using secure mechanisms provided by your device’s operating system.  
-If you delete the app or clear its data, all match history and settings will be permanently erased.
+We do **not** collect, store, or share any personal information. All data entered into the app (such as player names, match settings, or history) remains **locally on your device** and is **not transmitted** to any external servers.
 
-## Third-Party Links  
-The app may contain optional links to third-party websites or services:
+## External Links
 
-- [TikTok](https://tiktok.com)
-- [YouTube](https://youtube.com)
-- [BuyMeACoffee](https://buymeacoffee.com)
+This app does **not** include any external links or embedded web content. Social media handles (e.g., `@joe8ballofficial`) are displayed for informational purposes only and are **not clickable**.
 
-These services have their own privacy policies, which we do not control.  
-We encourage you to review their policies before interacting with them.
+## Third-Party Content
 
-## Children’s Privacy  
-This app is not intended for children under the age of 13.  
-We do not knowingly collect information from children.
+The app does not provide access to external content such as YouTube or TikTok and contains no browser or link-out functionality.
 
-## Changes to This Policy  
-We may update this Privacy Policy occasionally.  
-Any changes will be posted in the app and/or on our public repository at:
+## APA Affiliation
 
-👉 [https://github.com/mrzobot/legal](https://github.com/mrzobot/legal)
+Pool Score Tracker is an independent application and is **not affiliated with, endorsed by, or associated with the American Poolplayers Association (APA)**. Any references to APA formats or terminology are for informational purposes only.
 
-## Contact  
-If you have any questions or concerns about this Privacy Policy, please contact:
+## Changes to This Policy
 
-📧 joe8ballofficial@gmail.com
+We may update this Privacy Policy occasionally. Any changes will be posted in the app and/or on our public repository.
 
----
+## Contact
 
-## APA Disclaimer  
-**Pool Score Tracker is not affiliated with or endorsed by the American Poolplayers Association (APA).**  
-References to APA or APA-style scoring are provided for educational and informational purposes only.  
-APA® is a registered trademark of the American Poolplayers Association.
+If you have any questions about this Privacy Policy, please contact us at:
+
+joe8ballofficial@gmail.com
